@@ -50,4 +50,4 @@ typescript-layered-api
    npm run start
    ```
 
-server => app => routes => model => DTOs => Repository => Service => Controller => 
+server => app => routes => model => DTOs => Repository => Service => Controller
